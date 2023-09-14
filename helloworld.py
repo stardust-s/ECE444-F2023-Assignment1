@@ -4,6 +4,7 @@ def main():
     """
     print("Hello World")
     print("Name: Sage Jiang")
+    print("Year of study: 4")
     return 0
 
 
