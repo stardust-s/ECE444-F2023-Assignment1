@@ -3,6 +3,7 @@ def main():
     Function to print hello world
     """
     print("Hello World")
+    print("Year of study: 4")
     return 0
 
 
